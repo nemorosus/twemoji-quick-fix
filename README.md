@@ -1,7 +1,7 @@
 # twemoji-quick-fix
 For junkies wanting a quick fix and get that good, sweet Twitter Emojis on their site asap. Dirty way, of course.
 
-Just before you close your '</head>' tag, copy-paste this code:
+Just before you close your HEAD tag, copy-paste this code:
 
 ```
 <script src="https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js"
